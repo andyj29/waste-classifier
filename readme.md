@@ -21,6 +21,7 @@
 ❕  Note: Free tier Heroku dyno will sleep after 30 minutes of inactivity which might affect the server response time interval
 
 ### ➖ API is available at: [https://waste-classification-demo.herokuapp.com/predict/](https://waste-classification-demo.herokuapp.com/predict/)
+(no longer working after heroku removed their free tier 😕)
 
 ### ➖ Request body: 
         
